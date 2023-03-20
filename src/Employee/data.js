@@ -1,0 +1,22 @@
+let employees =[{"id":1,"name":"Pierson","email":"pheinschke0@weather.com","gender":"Male"},
+{"id":2,"name":"Jose","email":"jnovotne1@clickbank.net","gender":"Male"},
+{"id":3,"name":"Reynard","email":"rmackonochie2@edublogs.org","gender":"Agender"},
+{"id":4,"name":"Donnell","email":"dbrooksbank3@sogou.com","gender":"Male"},
+{"id":5,"name":"Thedrick","email":"tgovier4@independent.co.uk","gender":"Bigender"},
+{"id":6,"name":"Lorry","email":"lroxburch5@imageshack.us","gender":"Male"},
+{"id":7,"name":"Abner","email":"akinker6@examiner.com","gender":"Male"},
+{"id":8,"name":"Martin","email":"mbeldam7@livejournal.com","gender":"Genderqueer"},
+{"id":9,"name":"Donnie","email":"dseif8@canalblog.com","gender":"Female"},
+{"id":10,"name":"Avie","email":"arampley9@topsy.com","gender":"Female"},
+{"id":11,"name":"Hubie","email":"hdogertya@adobe.com","gender":"Genderfluid"},
+{"id":12,"name":"Torrie","email":"tmingameb@craigslist.org","gender":"Female"},
+{"id":13,"name":"Shurwood","email":"savrashinc@who.int","gender":"Male"},
+{"id":14,"name":"Olly","email":"okillingworthd@flavors.me","gender":"Male"},
+{"id":15,"name":"Pat","email":"pgrastyee@imdb.com","gender":"Male"},
+{"id":16,"name":"Hadleigh","email":"hmoinef@ucoz.com","gender":"Genderqueer"},
+{"id":17,"name":"Meredeth","email":"mparfettg@mysql.com","gender":"Male"},
+{"id":18,"name":"Waylin","email":"wtwinberrowh@xing.com","gender":"Male"},
+{"id":19,"name":"Shea","email":"spaulei@theguardian.com","gender":"Female"},
+{"id":20,"name":"Glynnis","email":"gugolottij@alexa.com","gender":"Female"}]
+
+export default employees
